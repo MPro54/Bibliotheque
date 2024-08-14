@@ -18,7 +18,7 @@ Fonctionnalités
 Installation
 
 1. Clone le Référentiel
-   git clone https://github.com/ton-nom-utilisateur/PortCartier.git
+   git clone https://github.com/ton-nom-utilisateur/Bibliotheque.git
 
 2. Installe XAMPP
    Télécharge et installe XAMPP depuis apachefriends.org. Assure-toi que les services Apache et MySQL sont en cours d'exécution.
