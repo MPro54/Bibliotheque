@@ -1,0 +1,11 @@
+CONNEXION ADMIN
+admin@mail.com
+mdp123
+
+CONNEXION EMPLOYÉS
+employe@mail.com
+securepwd789
+
+CONNEXION MEMBRE
+member@mail.com
+121212

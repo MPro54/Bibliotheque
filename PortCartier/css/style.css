@@ -1,0 +1,10 @@
+/* Media queries pour les petits écrans */
+@media (max-width: 768px) {
+    .navbar.navbar-inverse {
+        min-height: 50px; /* Ajustement de la hauteur minimale de la barre de navigation pour les petits écrans */
+    }
+
+    .container-fluid {
+        padding-top: 70px; /* Ajustement de l'espacement en haut du contenu pour les petits écrans */
+    }
+}
